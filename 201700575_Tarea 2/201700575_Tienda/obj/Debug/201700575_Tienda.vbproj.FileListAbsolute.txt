@@ -1,0 +1,13 @@
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\bin\Debug\201700575_Tienda.exe.config
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\bin\Debug\201700575_Tienda.exe
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\bin\Debug\201700575_Tienda.pdb
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\bin\Debug\201700575_Tienda.xml
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.vbproj.AssemblyReference.cache
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\_201700575_Tienda.Form1.resources
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\_201700575_Tienda.Resources.resources
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.vbproj.GenerateResource.cache
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.exe
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.xml
+C:\Users\rgaby\Desktop\201700575_Tarea 2\201700575_Tienda\obj\Debug\201700575_Tienda.pdb
